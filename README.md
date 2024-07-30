@@ -1,4 +1,4 @@
-# EXperiment-2
+# Experiment-2
 ## Aim:
 The aim of this program is to determine and print the size of various data types in bytes using the sizeof operator in C++.
 
