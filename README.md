@@ -13,6 +13,7 @@ The sizeof operator is used to determine the size of each variable in bytes. Eac
 
 ## Code
 ### Storage Class
+~~~
 #include<iostream>
 using namespace std;
 
@@ -39,8 +40,10 @@ The variable in register: 100
 External variable: 30
 The static variable: 10
 */
+~~~
 
 ### Finding the sizes of primitive datatypes 
+~~~
 #include <iostream>
 using namespace std;
 
@@ -65,6 +68,8 @@ int main()
     cout<< "The size of a wide character is: "<<sizeof(wchar_t) << endl;
     return 0;
 }
+
+~~~
 
 
 /*output
